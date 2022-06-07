@@ -9,6 +9,6 @@ docker-compose up -d
 ```
 docker-compose ps
 ```
-<img width="912" alt="container" src="https://user-images.githubusercontent.com/1218979/172496771-3162202c-6d79-4ffe-ab6c-06cb0559ef57.png">
+<img width="913" alt="img" src="https://user-images.githubusercontent.com/1218979/172497026-27923303-90dc-41f3-a8b4-e63c9018395e.png">
 
 ## ❯ Navegamos a los aplicativos
