@@ -1,8 +1,8 @@
 ## ❯ Instalamos
 
-`````
+```
 docker-compose up -d
-`````
+```
 
 ## ❯ Verificamos que los contenedores se hayan creado
 
