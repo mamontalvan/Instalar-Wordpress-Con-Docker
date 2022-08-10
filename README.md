@@ -1,3 +1,28 @@
+## ❯ Prerequisitos:
+
+1. Instar Docker Compose:
+
+```
+
+sudo curl -L "https://github.com/docker/compose/releases/download/1.26.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+
+```
+
+2. Establecemos los permisos correctos para que el comando "docker-compose" sea ejecutable:
+
+```
+
+sudo chmod +x /usr/local/bin/docker-compose
+
+```
+
+3. Verificamos que la instalación se realizó correctamente:
+
+```
+docker-compose --version
+
+```
+
 ## ❯ Instalamos
 
 ```
