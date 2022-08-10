@@ -23,7 +23,7 @@ docker-compose --version
 
 ```
 
-## ❯ Instalamos
+## ❯ Creamos nuestros servicios en el archivo "docker-compose.yml" y mediante el siguiente comando creamos los contenedores:
 
 ```
 docker-compose up -d
